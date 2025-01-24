@@ -1,0 +1,17 @@
+# Compiled Python files and caches
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+
+# Generated data files
+business_data.csv
+business_data.json
+
+# OS-specific files
+.DS_Store
+
+# VS Code settings
+.vscode/
