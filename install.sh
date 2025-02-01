@@ -32,7 +32,7 @@ fi
 # ---- CLONE THE REPO ----
 if [ ! -d "point-chamber-extractor" ]; then
     echo "📥 Cloning repository..."
-    git clone https://github.com/your-username/point-chamber-extractor.git
+    git clone https://github.com/derek-dahl/point-chamber-extractor.git
 fi
 
 # Navigate into the project folder
